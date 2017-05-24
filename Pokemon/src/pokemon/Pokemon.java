@@ -60,4 +60,5 @@ public class Pokemon {
             System.out.println(pokemon2 + " has lost the fight");
         }
     }
+
 }
